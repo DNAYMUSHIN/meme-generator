@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 20px 30px;
+    background: #672280;
+    background: linear-gradient(90deg,rgba(103, 34, 128, 1) 0%, rgba(166, 38, 211, 1) 100%);
+}
+
+.logo-img {
+    width: 32px;
+    height: 27px;
+}
+
+.site-name {
+    font-size: 21px;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 0 0 5px;
+}
